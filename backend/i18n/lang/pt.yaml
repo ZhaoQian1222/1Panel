@@ -1,5 +1,5 @@
 #cmd
-AppVersion: "Versão do aplicativo"
+AppVersion: "Versão da aplicação"
 AppCommands: "Comandos relacionados ao aplicativo"
 AppInit: "Inicializar aplicativo"
 AppKeyVal: "Chave do aplicativo (suporta apenas inglês)"
